@@ -44,7 +44,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Dateioperationen.cs" />
+    <Compile Include="Ordner.cs" />
+    <Compile Include="Datei.cs" />
+    <Compile Include="Menu.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
