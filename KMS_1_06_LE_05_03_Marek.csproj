@@ -44,6 +44,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Aktionen.cs" />
     <Compile Include="Ordner.cs" />
     <Compile Include="Datei.cs" />
     <Compile Include="Menu.cs" />
